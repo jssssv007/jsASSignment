@@ -1,0 +1,47 @@
+body{
+    background:url("https://i.pinimg.com/originals/4e/af/bf/4eafbf96c726a0c3be32e59bf63f1c2b.jpg") no-repeat;
+    background-size: cover;
+    font-family:'Oxygen' 'acme'; 
+}
+.jumbotron {
+    background: url("https://nuwallpaperhd.info/wp-content/uploads/2018/01/Background-Black-Dark-Texture-Rough-Coal-Like-Pattern-Abstract-Wallpaper-1.jpg") no-repeat;
+    background-size: cover;
+    font-family:fantasy;
+    color:cornsilk;
+    border:0;
+    height:100%;
+    border-radius: 0;
+}
+img{
+    float:left;
+}
+.mimg{
+    width:20%;
+    margin-right: 40px;
+}
+#f1{
+    background-color: orange;
+    color:whitesmoke;
+    font-family: 'Shadows Into Light';
+}
+#f2{
+    font-family: 'acme';
+    text-shadow: 2px 2px;
+    letter-spacing: 3px;
+    color:red;
+}
+.nav2{
+    display:block;
+    font-family: 'Monoton';
+    font-size: 25px;
+}
+.jj{
+    float:left;
+    width:100px;
+}
+.quote {
+padding:60px;
+font-size:35px ;
+font-family:'Special Elite';
+color:whitesmoke;
+}

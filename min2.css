@@ -1,0 +1,30 @@
+body {
+    background: url("https://cdn.hipwallpaper.com/i/91/45/Wej9Rq.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.nav2 {
+    display:block;
+    font-family: 'Monoton';
+    font-size: 25px;
+}
+.logo {
+    float:left;
+    width:100px;
+}
+.nav1 {
+    position: absolute;
+    top:0px;
+    left:0px;
+    width:60%;
+    float:right;
+}
+.tb1 {
+    margin-top:30px;
+}
+.td2 {
+    font-style: italic;
+    font-family:'Acme';
+}

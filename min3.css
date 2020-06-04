@@ -1,0 +1,42 @@
+body {
+    background: url("https://i.pinimg.com/originals/c2/4e/60/c24e60aa77a73e619e048c9038573f32.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height:100%;
+}
+.k{
+    color:red;
+}
+.nav1 {
+    position: absolute;
+    top:0px;
+    left:0px;
+    width:60%;
+    float:right;
+}
+.p2 {
+    margin-top:2%;
+    margin-bottom:3%;
+    font-size:60px;
+    font-family:'Acme';
+}
+.p1 {
+    font-size:35px;
+    font-family: 'Acme';
+}
+.logo {
+    float:left;
+    width:100px;
+}
+.img1 {
+    margin-right:20px;
+    float:left;
+    width:30%;
+}
+.nav2 {
+    display:block;
+    font-family: 'Monoton';
+    font-size: 25px;
+}

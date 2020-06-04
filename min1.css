@@ -1,0 +1,47 @@
+body {
+    background: url("https://i.pinimg.com/originals/ab/5f/0c/ab5f0c3620ee03b166ee3a94ec4cd467.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.nav2 {
+    display:block;
+    font-family: 'Monoton';
+    font-size: 25px;
+}
+.logo {
+    float:left;
+    width:100px;
+}
+h1 {
+    color:orange;
+    text-decoration: underline;
+}
+#f1{
+    font-style: 'Acme';
+    font-weight: bolder;
+    color:red;
+}
+.p1 {
+    font-size: 30px;
+    margin-top:15px;
+    font-family:cursive;
+}
+.img1 {
+    margin-right:20px;
+    float:left;
+    width:20%;
+}
+.img2 {
+    margin-right:20px;
+    float:left;
+    width:20%;
+}
+.nav1 {
+    position: absolute;
+    top:0px;
+    left:0px;
+    width:60%;
+    float:right;
+}
